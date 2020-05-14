@@ -9,7 +9,7 @@ They consist of a series of exercises that the reader should implement while rea
 
 The notebooks may be viewed (but not edited) online at [nbviewer](https://nbviewer.jupyter.org/github/dpsanders/intermediate_julia_2019/tree/master).
 
-The [`live`](live) folder now contains copies of the notebooks from the workshop, including solutions to most of the exercises, although they are a bit messy.
+The [`live`](live) folder contains copies of the notebooks from the workshop, including solutions to most of the exercises, although they are a bit messy.
 
 The video recording of the workshop was unfortunately unusable.
 
