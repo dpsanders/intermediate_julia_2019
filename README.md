@@ -11,7 +11,7 @@ The notebooks may be viewed (but not edited) online at [nbviewer](https://nbview
 
 The [`live`](live) folder now contains copies of the notebooks from the workshop, including solutions to most of the exercises, although they are a bit messy.
 
-A recording of the workshop will be available soon.
+The video recording of the workshop was unfortunately unusable.
 
 
 
